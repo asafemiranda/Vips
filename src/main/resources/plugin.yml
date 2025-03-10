@@ -1,0 +1,7 @@
+name: Vips
+main: me.Vips.vip.VipPlugin
+version: 1.0
+commands:
+  darvip:
+    description: Concede VIP a um jogador
+    usage: /darvip <jogador> <vip>

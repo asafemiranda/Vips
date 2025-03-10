@@ -1,0 +1,7 @@
+vips:
+  MVP:
+    prefix: "&3&1MVP "
+  VIP:
+    prefix: "&6&1VIP "
+
+vipPlayers: {}
